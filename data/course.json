@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "f4a4cca2-ce07-1010-585e-3c8b9f824935"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Selected Topics in Theoretical Particle Physics: Branes and Gauge Theory Dynamics",
+  "course_description": "This course is an introduction to branes in string theory and their world volume dynamics. Instead of looking at the theory from the point of view of the world-sheet observer, we will approach the problem from the point of view of an observer which lives on a brane. Instead of writing down conformal field theory on the world-sheet and studying the properties of these theories, we will look at various branes in string theory and ask how the physics on their world-volume looks like.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.871",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
